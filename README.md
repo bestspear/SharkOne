@@ -6,6 +6,7 @@ beta.0.0 测试版
 
 ## 一些说明
 
+- 项目在release中sharkone zip打包
 - 基于CobaltStrike4.5二开完成
 - SharkOne的主要功能是将beacon代码可视化，其实是为了方便自己也方便其他做这方面的二次开发
 - teamserver验证标识是将48879改成了其他标志并且验证错误会返回其他内容并记录ip
