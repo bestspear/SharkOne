@@ -15,6 +15,7 @@ beta.0.0 测试版
 - 编译器目前只测试了msvc＋llvm 可以自行在beacon/relaese32/64.bat beacon/start32/64.bat配置ollvm+mingw等其他编译器
 - 目前仅支持http、https 后面beacon内容会在以后版本发布
 - 造轮子项目，功能主要看个人修改，免杀姿势可以自己对beacon进行修修补补
+- By: T00ls.com
 
 ## 文件说明
 
